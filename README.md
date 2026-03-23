@@ -1,2 +1,2 @@
 # Kerple-Client
-Client side Kerple, intended for client eyes only!
+Client side application, intended for client eyes only!
